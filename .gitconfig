@@ -1,0 +1,7 @@
+[user]
+	email = kern@umich.edu
+	name = Kern Luo
+	username = zephure
+[alias]
+	a = add --all
+	psao = push --all origin
