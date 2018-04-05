@@ -1,0 +1,4 @@
+Host kern
+	HostName login.engin.umich.edu
+	User kern
+	Compression yes
