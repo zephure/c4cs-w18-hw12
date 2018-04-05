@@ -5,3 +5,5 @@
 [alias]
 	a = add --all
 	psao = push --all origin
+[core]
+	excludesfile = /home/kern/.gitignore_global
